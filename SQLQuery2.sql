@@ -1,0 +1,2 @@
+/*2. Write a SELECT statement that lists the name, product number, and color of each product from the 
+Production.Product table.*/USE AdventureWorks2022;selectname, productnumber,colorfrom Production.Product
